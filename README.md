@@ -17,7 +17,7 @@ I write about my experiences and learnings on [Medium](https://medium.com/@imsal
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat-square&logo=chainlink&logoColor=white)](https://www.langchain.com/)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
 [![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF6B35?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
