@@ -19,8 +19,8 @@ I write about my experiences and learnings on [Medium](https://medium.com/@imsal
 [![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat-square&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+[![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
+[![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF6B35?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
 
 ## 🌟 Highlights
 - 🎓 MS in Data Science - University of Alabama at Birmingham
